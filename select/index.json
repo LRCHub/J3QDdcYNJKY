@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Naked Romance",
   "base_artist": "小日向美穂 (CV: 津田美波)",
-  "createdAt": "2026-03-01T12:06:48.185842Z",
+  "createdAt": "2026-03-05T12:08:45.939280Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -32,9 +32,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Naked Romance",
-      "artist": "小日向美穂 (津田美波)",
+      "artist": "小日向美穂(CV:津田美波)",
       "has_synced": false,
-      "path": "select/pl_01_Naked_Romance_小日向美穂_(津田美波).txt"
+      "path": "select/pl_01_Naked_Romance_小日向美穂(CV_津田美波).txt"
     }
   ]
 }
